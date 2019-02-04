@@ -1,0 +1,6 @@
+owner=511361081894109229
+prefix=10
+game=playing|By|Vairos|10Play
+stayinchannel=true
+songinstatus=false
+token=NTQyMDE3MjQxMzc4NTg2NjQ1.DzoiNg.rTOIWKfctU_VIel7GsCBxyo5MPg
